@@ -1,16 +1,17 @@
-0x03. Python - Data Structures: Lists, Tuples Task description
-..................................................
-0. Print a list of integers 
-....................................................
+<h1>0x03. Python - Data Structures: Lists, Tuples Task description
+   </h1>
+
+<h5>0. Print a list of integers
+   
 #!/usr/bin/python3
 
 def print_list_integer(my_list=[]):
     for i in range(len(my_list)):
-        print("{:d}".format(my_list[i]))
+        print("{:d}".format(my_list[i]))</h5>
 
 ...................................................
-1. Secure access to an element in a list 
-...................................................
+
+<h5>1. Secure access to an element in a list
 
 #!/usr/bin/python3
 
