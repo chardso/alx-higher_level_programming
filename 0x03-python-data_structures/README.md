@@ -30,6 +30,7 @@ return my_list[idx]
 ................................................
 2. Replace element 
 ..................................................
+
 #!/usr/bin/python3
 
 def replace_in_list(my_list, idx, element):
@@ -47,6 +48,7 @@ return my_list
 ........................................................
 3. Print a list of integers... in reverse! 
 .....................................................
+
 #!/usr/bin/python3
 
 def print_reversed_list_integer(my_list=[]):
