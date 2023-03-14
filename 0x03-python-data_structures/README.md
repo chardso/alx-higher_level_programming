@@ -25,9 +25,7 @@ return 'None'
     
 else:
         
-return my_list[idx]
-
-</h5>
+return my_list[idx]</h5>
 
 
 <h5>2. Replace element</h5> 
@@ -46,7 +44,7 @@ else:
 my_list[idx] = element
         
 return my_list
-
+...........................................
 
 <h5>3. Print a list of integers... in reverse! </h5>
 
