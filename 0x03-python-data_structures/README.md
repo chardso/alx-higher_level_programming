@@ -27,10 +27,10 @@ else:
         
 return my_list[idx]
 
-................................................
 
 
-2. Replace element 
+
+<h5>2. Replace element</h5> 
 ..................................................
 
 #!/usr/bin/python3
@@ -50,7 +50,7 @@ return my_list
 ........................................................
 
 
-3. Print a list of integers... in reverse! 
+<h5>3. Print a list of integers... in reverse! </h5>
 .....................................................
 
 #!/usr/bin/python3
