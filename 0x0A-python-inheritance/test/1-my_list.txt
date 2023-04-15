@@ -1,6 +1,6 @@
 Checking for module docstring:
-         >>> m = __import__("1-my_list").__doc__
-         >>> len(m) > 1
+ m = __import__("1-my_list").__doc__
+ len(m) > 1
          True
 
 Checking for class docstring:
@@ -42,7 +42,7 @@ Checking for reversed order list:
 	  >>> l.append(1)
 	  >>> print(l)
 	  [4, 3, 2, 1]
-	  >>> l.print_sorted()
+	   l.print_sorted()
 	  [1, 2, 3, 4]
 	  >>> print(l)
 	  [4, 3, 2, 1]
@@ -61,7 +61,7 @@ Checking for all negative numbers:
 	  >>> l = MyList()
 	  >>> l.append(-10)
 	  >>> l.append(-1)
-	  >>> l.append(-7)
+	  >> l.append(-7)
 	  >>> l.append(-2)
 	  >>> l.append(-8)
 	  >>> print(l)
