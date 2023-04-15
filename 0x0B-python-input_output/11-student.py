@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8                                                                             
+#!/usr/bin/python3                                                                             
 """Defines a class Student."""
 class Student:
     """Represent a student."""
