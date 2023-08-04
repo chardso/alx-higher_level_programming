@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/acer/.cache/gnome-builder/install/0x10-python-network_0/host
+app-id=
+postbuild=
+prebuild=
+default=true
