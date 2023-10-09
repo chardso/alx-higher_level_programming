@@ -1,3 +1,2 @@
 # alx-higher_level_programming
-Alway eager to continue doing hard things at Alx
-
+## always eager to continue doing hard things at alx
