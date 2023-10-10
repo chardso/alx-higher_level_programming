@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author -chardso andrea
+# Author -hardware-and-electronics-prototype-org
 
 i = 0
 for c in range(ord('z'), ord('a') - 1, -1):
